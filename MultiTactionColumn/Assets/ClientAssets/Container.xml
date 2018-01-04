@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Container>
+    <Entry>
+		  <TestEnum>one</TestEnum>
+      <intValue>1</intValue>
+      <floatValue>1.123</floatValue>
+      <stringValue>String Value From Entry 1</stringValue>
+      <Text>
+        <T>Entry 1 Text 1</T>
+        <T>Entry 1 Text 2</T>
+        <T>Entry 1 Text 3</T>
+        <T>Entry 1 Text 4</T>
+      </Text>
+    </Entry>
+    <Entry>
+      <TestEnum>two</TestEnum>
+      <intValue>2</intValue>
+      <floatValue>2.234</floatValue>
+      <stringValue>String Value From Entry 2</stringValue>
+      <Text>
+        <T>Entry 2 Text 1</T>
+        <T>Entry 2 Text 2</T>
+        <T>Entry 2 Text 3</T>
+      </Text>
+    </Entry>
+    <Entry>
+      <TestEnum>three</TestEnum>
+      <intValue>3</intValue>
+      <floatValue>3.345</floatValue>
+      <stringValue>String Value From Entry 3</stringValue>
+      <Text>
+        <T>Entry 3 Text 1</T>
+        <T>Entry 3 Text 2</T>
+        <T>Entry 3 Text 3</T>
+      </Text>
+    </Entry>
+  </Container>
+</Root>

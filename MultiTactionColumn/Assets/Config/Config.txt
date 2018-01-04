@@ -1,0 +1,45 @@
+
+// total time for questions
+// in minutes
+App Timer = 8
+
+// arduino port
+ComPort = COM3 
+
+// debug UI
+// true
+// false
+Debug = true
+
+// number of buffers 0-2
+vsync = 0
+
+// number of lights per object
+pixel light count = 4
+
+// Anti Aliasing in powers of 2
+aa = 0
+
+// Anisotropic Filtering
+// Disable 0
+// Enable 1
+// ForceEnable 2
+af = 1
+
+// Number of bones
+// 1
+// 2
+// 4
+blendweights = 4
+
+// resolution
+Screen Width = 1920
+Screen Height = 1080
+
+// Full screen
+// true
+// false
+Full Screen = false
+
+// screen prefered refresh rate
+Refresh Rate = 60
